@@ -1,0 +1,8 @@
+import webshop.sql in webshop DB
+Füge Projekt in htdocs/webshop ein. - Fertig
+
+http://localhost/webshop/index.php 			- Fronend  			(Testuser: Email=test@test.com, Passwort=test)
+http://localhost/webshop/templates/admin/login.php 	- Backend			(Testadmin: Email=test@test.com, Passwort=test)
+
+
+Domenik, Jurkka, Timo
